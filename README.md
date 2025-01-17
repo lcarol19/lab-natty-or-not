@@ -26,8 +26,8 @@ Projeto com o objetivo de gerar um ebook digital Natural mas sendo Fake Natty, t
 ChatGPT：
 
 |  Ação    |prompt                                                                                 
-| :------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| conteúdo | construa um ebook de 2 páginas A4 com o conteúdo básico da teoria musical, explique para um adulto os termos iniciais para compreensão da teoria musical, transcreva para um ebook de 2 páginas A4 |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| conteúdo | construa um ebook de 2 páginas A4 com o conteúdo básico da teoria musical, explique para um adulto os termos iniciais para compreensão da teoria musical |
 
 Leonardo.ai：utilizado prompt melhorado pela própria IA para criar a imagem da partitura
 
