@@ -2,50 +2,47 @@
 
 ## 🚀 Introdução
 
-> Woooow! Look at this 👀
+> Desenvolvi um ebook sobre teoria musical!!!
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+# Ebook de Introdução à Teoria Musical
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+ > ℹ️ **NOTE:** Este é um ebook criado durante o Bootcamp CAIXA - IA Generativa com Microsoft Copilot realizado na plataforma [DIO](https://dio.me)
 
-### Objetivos
+Projeto com o objetivo de gerar um ebook digital Natural mas sendo Fake Natty, todos os prompts seguem abaixo.
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+<a href="https://github.com/lcarol19/prompts-recipe-to-create-a-ebook/blob/main/Explorando-a-linguagem-COBOL.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
-### Template
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+## 💻 Tecnologias utilizadas no projeto
 
-## 📒 Descrição
-Breve descrição do seu projeto
+- [ChatGPT](https://chat.openai.com/) 
+- [Leonardo.ai](https://app.leonardo.ai//) 
+- [Gamma.app](https://gamma.app/)
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+## 🧠 Prompts
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+ChatGPT：
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+|  Ação    |prompt                                                                                 
+| :------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| conteúdo | construa um ebook de 2 páginas A4 com o conteúdo básico da teoria musical, explique para um adulto os termos iniciais para compreensão da teoria musical, transcreva para um ebook de 2 páginas A4 |
 
-### Exemplos e Insigths
+Leonardo.ai：utilizado prompt melhorado pela própria IA para criar a imagem da partitura
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+|  Ação  | prompt                                                                                                                                                                                                   |
+| :----: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| imagem | From the depths of a sepia-toned, weathered music sheet emerges a stunningly stylized musical score. The notes dance delicately across the page, each symbol a testament to the composer's genius. This masterpiece of an image, likely a digital artwork, captures the essence of music in a truly captivating way. Every line and curve seems to hum with life, the intricate details bringing the composition to vibrant life. The quality of this image is impeccable, with rich, deep colors and intricate shading adding depth and dimension to the subject. It is a piece that deserves to be admired and pondered over, a true work of art.|
 
-## Links Interessantes
+Leonardo.ai：utilizado prompt melhorado pela própria IA para criar a imagem da orquestra
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+|  Ação  | prompt                                                                                                                                                                                                   |
+| :----: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| imagem | Create an illustration of a vibrant and lively symphonic orchestra in a whimsical cartoon style, set against a warm beige background with subtle music sheet textures, perfect for an ebook on music theory. The orchestra consists of diverse musicians of various ages, skin tones, and facial features, all engaged in playing their respective instruments with enthusiasm and passion. The conductor, a middle-aged man with a kind face and a gentle smile, stands confidently at the podium, his baton poised in mid-air. The musicians' clothing is a mix of formal and casual attire, with splashes of bright colors, adding to the overall energy and excitement of the scene. The instruments are meticulously illustrated, with fine details and textures, and the music stands and sheets are adorned with subtle musical notes and decorations. The overall mood is one of joy, creativity, and harmony, inviting the viewer to step into the enchanting world of music. |
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## ✨ Features
+
+- Conteúdo gerado via ChatGPT
+- Imagens da partitura e orquestra geradas via Leonardo.ai com prompt otimizado pela própria IA
+- Criação do Ebook via Gamma.app
+
